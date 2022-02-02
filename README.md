@@ -52,5 +52,3 @@ This banking project designed on HTML and CSS that allows the users to explore d
 ## License
 
 > This project has MIT license, I chose this license template because it is the popular one, offers low protection to authors, free of cost and various big projects are using it.
-
-## Adding this line to revert the changes
