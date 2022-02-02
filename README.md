@@ -49,8 +49,8 @@ This banking project designed on HTML and CSS that allows the users to explore d
 
 > The last option is for the users in case they need any help for this system. They can write their queries to us on the input field available on the screen to get it resolved.
 
+## code added to revert the changes
+
 ## License
 
 > This project has MIT license, I chose this license template because it is the popular one, offers low protection to authors, free of cost and various big projects are using it.
-
-## Added this line to revert
